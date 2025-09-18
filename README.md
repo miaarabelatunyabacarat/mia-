@@ -3,7 +3,7 @@
 HI! Im at a beginner level at coding! I was interested in HTML before and now my course is all about programming and arduino stuff!
 
 **Hobbies:** 🥰
-<ul>Paiting</ul>
+<ul>Painting</ul>
 <ul>Journalling</ul>
 
 **Codes I know (and learning):** 🥳
