@@ -1,11 +1,9 @@
-# About Me
+# About Me ₊ ⊹
 
-Name: Mia Arabela Tunya A. Bacarat 
-Program: BS in Computer Applications
+Name: Mia Arabela Tunya A. Bacarat <br>
+Program: BS in Computer Applications <br>
 
-**Hobbies:** 🥰
-<ul>Painting</ul>
-<ul>Journalling</ul>
+──────────── ୨୧ ────────────
 
 **Programming Languages:** 🥳
 <ul> HTML </ul>
@@ -14,9 +12,18 @@ Program: BS in Computer Applications
 <ul> C</ul>
 <ul> C++</ul>
 
-**Skills:**
+
+**Skills:** 🌷
 <ul> PCB Design</ul>
 <ul> Electrical Circuits</ul>
 <ul> Arduino</ul>
+
+**Hobbies:** 🥰
+<ul>Painting</ul>
+<ul>Journalling</ul>
+
+
+--------------------------------------
+
 *"Consistency will lead to success"*
 
