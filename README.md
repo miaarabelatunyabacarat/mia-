@@ -1,20 +1,22 @@
 # About Me
 
-HI! Im at a beginner level at coding! I was interested in HTML before and now my course is all about programming and arduino stuff!
+Name: Mia Arabela Tunya A. Bacarat 
+Program: BS in Computer Applications
 
 **Hobbies:** 🥰
 <ul>Painting</ul>
 <ul>Journalling</ul>
 
-**Codes I know (and learning):** 🥳
+**Programming Languages:** 🥳
 <ul> HTML </ul>
 <ul> CCS</ul>
+<ul> Javascript </ul>
 <ul> C</ul>
+<ul> C++</ul>
 
-**Things I like:** 🫶
-<ul> Purple and Pink</ul>
-<ul> Cats and bunnies</ul>
-<ul> Fried Chicken</ul>
-
+**Skills:**
+<ul> PCB Design</ul>
+<ul> Electrical Circuits</ul>
+<ul> Arduino</ul>
 *"Consistency will lead to success"*
 
